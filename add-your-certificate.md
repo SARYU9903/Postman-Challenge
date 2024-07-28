@@ -44,7 +44,7 @@
 | 27  | Saryu      | saryu993@gmail.com            | [Saryu](www.linkedin.com/in/saryu-s-724337221)             | [Certificate Link](https://api.badgr.io/public/assertions/VbykXDUYTPGHqqjHcZyRrw?identity__email=saryu993%40gmail.com)                                                    | i really loved it.             |
 
 
-| 28  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
+| 28  |Saryu       | saryu993@gmail.com           | [Saryu](www.linkedin.com/in/saryu-s-724337221)             | [Certificate Link](https://api.badgr.io/public/assertions/VbykXDUYTPGHqqjHcZyRrw?identity__email=saryu993%40gmail.com)                                                    | had great experience                |
 | 29  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 30  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 27  | Ritam Bhattacharya       |  ritam117bhattacharya@gmail.com  | [Ritam Bhattacharya](https://www.linkedin.com/in/ritam-bhattacharya-463248263/) | [Certificate Link](https://api.badgr.io/public/assertions/X6QS601IR-qu5Y3H4INTBw?identity__email=ritam09bhattacharya%40gmail.com)  | Great and Engaging |
